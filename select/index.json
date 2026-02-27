@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Champagne Supernova",
+  "base_artist": "Oasis",
+  "createdAt": "2026-02-27T09:44:02.125522Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "CHAMPAGNE SUPERNOVA",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/01_CHAMPAGNE_SUPERNOVA_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Champagne Supernova (Album Version)",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/02_Champagne_Supernova_(Album_Version)_Oasis.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Champagne Supernova (radio edit)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/03_Champagne_Supernova_(radio_edit)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Champagne Supernova",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/04_Champagne_Supernova_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Champagne Supernova",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/05_Champagne_Supernova_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Champagne Supernova (Live at Knebworth, 11 August '96)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/06_Champagne_Supernova_(Live_at_Knebworth,_11_August_'96)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Champagne Supernova (Live at Knebworth)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/07_Champagne_Supernova_(Live_at_Knebworth)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Champagne Supernova - Brendan Lynch Mix",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/08_Champagne_Supernova_-_Brendan_Lynch_Mix_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Champagne Supernova [Brendan Lynch Mix]",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/09_Champagne_Supernova_[Brendan_Lynch_Mix]_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Champagne Supernova",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/10_Champagne_Supernova_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "0817 - Oasis - Champagne Supernova",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/11_0817_-_Oasis_-_Champagne_Supernova_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Champagne Supernova",
+      "artist": "Scala & Kolacny Brothers",
+      "has_synced": true,
+      "path": "select/12_Champagne_Supernova_Scala_&_Kolacny_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Champagne Supernova",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/13_Champagne_Supernova_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Champagne Supernova",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/14_Champagne_Supernova_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Champagne Supernova",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/15_Champagne_Supernova_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Champagne Supernova",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/16_Champagne_Supernova_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Champagne Supernova (Brendan Lynch Mix)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/17_Champagne_Supernova_(Brendan_Lynch_Mix)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Champagne Supernova",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/18_Champagne_Supernova_Oasis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Champagne Supernova",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/pl_01_Champagne_Supernova_Oasis.txt"
+    }
+  ]
+}
